@@ -8,7 +8,7 @@
 </head>
 <body>
     
- <img src= "Screen Shot 2020-10-09 at 10.47.35 PM.jpeg">
+ <img src= "/Users/alyssademetro/Documents/UCF/noteTaker/11-express/Screen Shot 2020-10-09 at 10.47.35 PM.jpeg">
 
 <h2>Table of Contents:</h2>
     
